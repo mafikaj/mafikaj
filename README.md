@@ -1,4 +1,4 @@
-👋 Hi, I’m Mafika Nkosi, a recent graduate with an Honours in Applied Remote Sensing and GIS.
+👋 Hi, I’m Mafika Nkosi, a graduate with an Honours in Applied Remote Sensing and GIS.
 
 - 👀 I’m interested in coding, data science, and machine learning.
 - 🌱 I’m currently learning software development through a Software Engineering Bootcamp, focusing on Python and Django.
